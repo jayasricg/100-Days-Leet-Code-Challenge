@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1873-calculate-special-bonus) |
 | [1667-fix-names-in-a-table](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1667-fix-names-in-a-table) |
 | [1527-patients-with-a-condition](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1527-patients-with-a-condition) |
+| [0620-not-boring-movies](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
