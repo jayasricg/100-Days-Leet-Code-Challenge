@@ -24,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/0197-rising-temperature) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [0607-sales-person](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/0607-sales-person) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
