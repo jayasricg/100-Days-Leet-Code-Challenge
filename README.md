@@ -26,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
