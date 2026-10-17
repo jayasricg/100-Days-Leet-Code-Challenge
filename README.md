@@ -30,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1661-average-time-of-process-per-machine) |
 | [1280-students-and-examinations](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1280-students-and-examinations) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1084-sales-analysis-iii](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
