@@ -35,4 +35,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [0619-biggest-single-number](https://github.com/jayasricg/100-Days-Leet-Code-Challenge/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
